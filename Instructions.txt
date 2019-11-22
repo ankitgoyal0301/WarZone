@@ -13,4 +13,4 @@ self.host='172.31.71.138'
 
 NOTE:Warzone and Warzone2 are exactly same.You can run any of the file
 
-Github Repo: https://github.com/dark-knight1729/WarZone
+Github Repo: https://github.com/ankitgoyal0301/WarZone
